@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "nome":"camiseta regata",
+        "descricao":"Camiseta regata masculina",
+        "preco":38.9,
+        "quantidade":10,
+        "img":""
+    },
+
+     {
+        "id":2,
+        "nome":"bone beisebol",
+        "descricao":"bone aba reta de beisebol",
+        "preco":18.5,
+        "quantidade":5,
+        "img":""
+    },
+
+      {
+        "id":3,
+        "nome":"calça reta",
+        "descricao":"Calça reta jeans",
+        "preco":98.0,
+        "quantidade":7,
+        "img":""
+    },
+
+      {
+        "id":4,
+        "nome":"Regata canelada",
+        "descricao":"regata com tecido canelado",
+        "preco":30.6,
+        "quantidade":10,
+        "img":"https://cdn.dooca.store/50972/products/design-sem-nome-28.png?v=1671018754"
+    },
+
+      {
+        "id":5,
+        "nome":"camiseta de futebol",
+        "descricao":"Camiseta futebol masculina",
+        "preco":78.9,
+        "quantidade":10,
+        "img":"https://images.tcdn.com.br/img/img_prod/646374/camisa_de_futebol_avante_ligth_78_1_20201213220409.jpg"
+    },
+
+      {
+        "id":6,
+        "nome":"jaqueta jeans",
+        "descricao":"jaqueta jeans masculina",
+        "preco":138.5,
+        "quantidade":10,
+        "img":"https://cea.vtexassets.com/arquivos/ids/57300110/jaqueta-jeans-trucker-com-tachas-e-desfiados-azul-medio-1049425-Azul_Medio_1.jpg?v=638156955656130000"
+    },
+
+      {
+        "id":7,
+        "nome":"moletom verde",
+        "descricao":"moletom verde feminino",
+        "preco":78.9,
+        "quantidade":15,
+        "img":"https://acdn-us.mitiendanube.com/stores/003/950/561/products/whatsapp-image-2024-12-25-at-12-29-31-47fe7e0bc92f0d1a7f17351411102331-480-0.jpeg"
+    },
+
+      {
+        "id":8,
+        "nome":"manga longa",
+        "descricao":"manga longa algodão",
+        "preco":68.9,
+        "quantidade":10,
+        "img":"https://images.tcdn.com.br/img/img_prod/311840/camisa_penalty_matis_uv_vii_manga_longa_marinho_56697_1_20210806233348.jpg"
+    },
+
+      {
+        "id":9,
+        "nome":"bermuda jeans",
+        "descricao":"bermuda jeans masculina",
+        "preco":58.9,
+        "quantidade":10,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSho_MjRbhKQEOEwALRGn31PQKJgZrtlrUnTA&s"
+    },
+
+      {
+        "id":10,
+        "nome":"terno",
+        "descricao":"terno regalia masculina",
+        "preco":238.9,
+        "quantidade":10,
+        "img":"https://cdn.awsli.com.br/800x800/1356/1356499/produto/93927051/8f56b2049d.jpg"
+    }
+
+]
